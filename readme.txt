@@ -1,20 +1,20 @@
 === Plugin Name ===
 Contributors: IMsupporting
 Donate link: http://IMsupporting.com
-Tags: live chat support, live support plugin, live support software, live support, live support button, live support button, live support support, support widget, support tool, live support widget, live support tool, support, support support, instant support, support free, support live, instant support, support plugin, live support plugin
+Tags: chat, live chat, chat live, live support plugin, live support software, live support, live support button, live support button, live support support, support widget, support tool, live support widget, live support tool, support, support support, instant support, support free, support live, instant support, support plugin, live support plugin
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0.0.3
+Stable tag: 1.0.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Live chat support and live support for Wordpress. This is an advanced live chat tool for Business websites who are dedicated to supporting their customers.
+Chat live to your website visitors for Wordpress. This is an advanced live chat tool for Business websites who are dedicated to supporting their customers.
 Add live support to your website instantly with our easy software installation.  Our live support tool works instantly and doesnt require any downloads to support all hosted in the cloud, ready when you are.
 
 == Description ==
-<h1>Live chat support for websites.</h1>
+<h1>Chat support for websites.</h1>
 <p>
-Live chat support is a great tool to add to any website. With the IMsupporting live support software you can have a live support account, login to the live support account and be supportting to your visitors within minutes!<br>
+Chat support is a great tool to add to any website. With the IMsupporting live support software you can have a live support account, login to the live support account and be supportting to your visitors within minutes!<br>
 Add live support to your site today with our 100% FREE trial. Instant access and easy installation.
 
 For more information, Check out <a href="http://www.imsupporting.com" target="_blank">Live support</a>
@@ -61,6 +61,9 @@ Yes, you can customise the support window entirely. Add your own banners and cha
 
 
 == Changelog ==
+
+= 1.0.0.4 =
+Small fixes ready for 2.0
 
 = 1.0.0.2 =
 Getting ready for the Business live chat features.
