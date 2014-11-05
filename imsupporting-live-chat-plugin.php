@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Chat
+Plugin Name: Chat Support
 Plugin URI: http://www.IMsupporting.com
 Description: Chat support and live chat support is a tool for Wordpress. This is an advanced live chat tool for Business websites who are dedicated to supporting their customers.
 Add live support to your website instantly with our easy software installation.  Our live support tool works instantly and doesnt require any downloads to support all hosted in the cloud, ready when you are.
-Version: 1.0.0.5
+Version: 1.0.0.6
 Author: IMsupporting
 Author URI: http://www.IMsupporting.com
 License: GPL
