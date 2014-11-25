@@ -4,7 +4,7 @@ Donate link: http://IMsupporting.com
 Tags: chat, live chat software, support, live chat, chat live, live support plugin, live support software, live support, live support button, live support button, live support support, support widget, support tool, live support widget, live support tool, support, support support, instant support, support free, support live, instant support, support plugin, live support plugin
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0.0.9
+Stable tag: 1.0.0.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
