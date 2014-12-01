@@ -4,12 +4,11 @@ Donate link: http://IMsupporting.com
 Tags: chat, live chat, chat software, chat support, chat live, live chat tool, chat widget, chat for wordpress
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0.0.11
+Stable tag: 1.0.0.12
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Chat for your wordpress websites. This is an advanced chat support tool for Business websites who are dedicated to supporting their customers.
-Add support to your website instantly with our easy software installation.  Our support tool works instantly and doesnt require any downloads to support all hosted in the cloud, ready when you are.
+Chat for your wordpress websites. Chat to your visitors. Chat to your customers. Chat to anyone on your website.
 
 == Description ==
 <h1>Chat for websites.</h1>

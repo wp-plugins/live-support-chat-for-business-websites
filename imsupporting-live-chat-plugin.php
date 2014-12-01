@@ -2,16 +2,15 @@
 /*
 Plugin Name: Chat
 Plugin URI: http://www.IMsupporting.com
-Description: Chat for your business website. Add chat support and live chat to Wordpress. This is an advanced live chat tool for Business websites who are dedicated to supporting their customers.
-Add live support to your website instantly with our easy software installation.  Our live support tool works instantly and doesnt require any downloads to support all hosted in the cloud, ready when you are.
-Version: 1.0.0.11
+Description: Chat for your wordpress websites. Chat to your visitors. Chat to your customers. Chat to anyone on your website.
+Version: 1.0.0.12
 Author: IMsupporting
 Author URI: http://www.IMsupporting.com
 License: GPL
 */
 
 
-// 2015 IMsupporting - Live chat plugin for BUSINESS websites.
+// Chat plugin for BUSINESS websites.
 // Powered by IMsurfing technologies
 
 /* Runs when plugin is activated */
