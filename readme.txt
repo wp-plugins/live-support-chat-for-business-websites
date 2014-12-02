@@ -1,19 +1,19 @@
 === Plugin Name ===
 Contributors: IMsupporting
 Donate link: http://IMsupporting.com
-Tags: chat, live chat, chat software, chat support, chat live, live chat tool, chat widget, chat for wordpress
+Tags: Support, Live support, live chat support, support software, customer support, helpdesk, customer chat, chat, live chat, chat software, chat support, chat live, live chat tool, chat widget, chat for wordpress
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0.0.13
+Stable tag: 1.0.0.14
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Chat for your wordpress websites. Chat to your visitors. Chat to your customers. Chat to anyone on your website.
 
 == Description ==
-<h1>Chat for websites.</h1>
+<h1>Support chat for websites.</h1>
 <p>
-Chat support is a great tool to add to any website. With the IMsupporting live support software you can have a live support account, login to the live support account and be supportting to your visitors within minutes!<br>
+Support is a great tool to add to any website. With the IMsupporting live support software you can have a live support account, login to the live support account and be supportting to your visitors within minutes!<br>
 Add live support to your site today with our 100% FREE trial. Instant access and easy installation.
 
 For more information, Check out <a href="http://www.imsupporting.com" target="_blank">Live support</a>

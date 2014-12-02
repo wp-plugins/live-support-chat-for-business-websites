@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Chat Plugin
+Plugin Name: Support
 Plugin URI: http://www.IMsupporting.com
-Description: Chat for your wordpress websites. Chat to your visitors. Chat to your customers. Chat to anyone on your website.
-Version: 1.0.0.13
+Description: Support your users with our live chat and live support tools for your wordpress websites. Chat to your visitors. Chat to your customers. Chat to anyone on your website.
+Version: 1.0.0.14
 Author: IMsupporting
 Author URI: http://www.IMsupporting.com
 License: GPL
