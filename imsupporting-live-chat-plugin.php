@@ -1,16 +1,17 @@
 <?php
 /*
-Plugin Name: Support
+Plugin Name: Live Help
 Plugin URI: http://www.IMsupporting.com
-Description: Support your users with our live chat and live support tools for your wordpress websites. Chat to your visitors. Chat to your customers. Chat to anyone on your website.
-Version: 1.0.0.14
+Description: Live help plugin and live help chat software support plugin widget for your wordpress website. 
+Live help plugin for your website. Add instantly with our easy to use live help software installation. Live help software for any website. Our live help tool works instantly and doesnt require any downloads to help. Add cloud based live help today.
+Version: 1.0.0.15
 Author: IMsupporting
 Author URI: http://www.IMsupporting.com
 License: GPL
 */
 
 
-// Chat plugin for BUSINESS websites.
+// 2014 IMsupporting - Live help plugin for websites.
 // Powered by IMsurfing technologies
 
 /* Runs when plugin is activated */
@@ -41,6 +42,17 @@ add_option("ims_position", 'right', '', 'yes');
 add_option("ims_uploaded", 'no', '', 'yes');
 //
 add_option("ims_fixed", 'yes', '', 'yes'); // CSS fixed..
+
+// Proactive Popups.
+add_option("ims_popup", 'no', '', 'yes'); // Show a timed popup?
+add_option("ims_popuptime", '10', '', 'yes'); // Time in seconds. ( We add the 000's later )
+add_option("ims_popupimage", 'http://status.imsupporting.com/remotepopups/background0.png', '', 'yes'); // The background for the DIV
+add_option("ims_popupbutton", '34', '', 'yes'); // Button image
+add_option("ims_popupheight", '244', '', 'yes');
+add_option("ims_popupwidth", '344', '', 'yes');
+add_option("ims_popuptop", '200', '', 'yes');
+add_option("ims_popupleft", '300', '', 'yes');
+
 }
 
 function imsupporting_remove() {
@@ -54,13 +66,23 @@ delete_option('ims_uploaded');
 delete_option('ims_fixed');
 delete_option('ims_username');
 delete_option('ims_password');
+
+delete_option('ims_popup');
+delete_option('ims_popuptime');
+delete_option('ims_popupimage');
+delete_option('ims_popupbutton');
+delete_option('ims_popupheight');
+delete_option('ims_popupwidth');
+delete_option('ims_popuptop');
+delete_option('ims_popupleft');
+
 }
 
 
 
-// Add settings link on plugin page ( Imsupportingchat is referenced in the admin page )
+// Add settings link on plugin page ( Imsupportinghelp is referenced in the admin page )
 function your_plugin_settings_link($links) { 
-  $settings_link = '<a href="options-general.php?page=imsupportingchat">Settings & Chat Dashboard</a>'; 
+  $settings_link = '<a href="options-general.php?page=imsupportinghelp">Settings & help Dashboard</a>'; 
   array_unshift($links, $settings_link); 
   return $links; 
 }
@@ -71,7 +93,7 @@ add_filter("plugin_action_links_$plugin", 'your_plugin_settings_link' );
 
 
 
-// IMsupporting live chat software main display file.
+// IMsupporting live help software main display file.
 // Powered by IMsurfing networks - IMsurfing.co.uk 2013
 
 // What gets displayed to the clients visitors.
