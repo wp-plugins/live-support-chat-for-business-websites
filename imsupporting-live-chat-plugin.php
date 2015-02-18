@@ -1,10 +1,9 @@
 <?php
 /*
-Plugin Name: Live Help
+Plugin Name: Chat
 Plugin URI: http://www.IMsupporting.com
-Description: Live help plugin and live help chat software support plugin widget for your wordpress website. 
-Live help plugin for your website. Add instantly with our easy to use live help software installation. Live help software for any website. Our live help tool works instantly and doesnt require any downloads to help. Add cloud based live help today.
-Version: 1.0.0.15
+Description: Chat plugin for your blog. Chat to your users and chat to your visitors.
+Version: 1.0.0.16
 Author: IMsupporting
 Author URI: http://www.IMsupporting.com
 License: GPL
