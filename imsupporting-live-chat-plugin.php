@@ -3,7 +3,7 @@
 Plugin Name: Chat Widget
 Plugin URI: http://www.IMsupporting.com
 Description: Chat Widget / Plugin for your blog. Chat to your users and chat to your visitors. Increase sales.
-Version: 1.0.0.17
+Version: 1.0.0.18
 Author: IMsupporting
 Author URI: http://www.IMsupporting.com
 License: GPL
