@@ -8,7 +8,7 @@ Stable tag: 1.0.0.20
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add a Web chat tool to your website today! Chat to your visitors in realtime, See who is visiting your website and much more!
+Add a Web chat tool to your website today! Chat to your visitors in realtime, See who is visiting your website in realtime and much more! Try now FREE.
 
 == Description ==
 <h1>Web Chat support for websites.</h1>
