@@ -1,16 +1,16 @@
 <?php
 /*
-Plugin Name: Chat Support
+Plugin Name: Web Chat
 Plugin URI: http://www.IMsupporting.com
-Description: Chat Support / Plugin for your blog. Chat to your users and chat to your visitors. Increase sales.
-Version: 1.0.0.19
+Description: Web Chat / Plugin for your blog. Chat to your users and chat to your visitors. Increase sales today with our 100% free trial.
+Version: 1.0.0.20
 Author: IMsupporting
 Author URI: http://www.IMsupporting.com
 License: GPL
 */
 
 
-// 2014 IMsupporting - Live help plugin for websites.
+// 2015 IMsupporting - Web chat plugin for websites.
 // Powered by IMsurfing technologies
 
 /* Runs when plugin is activated */

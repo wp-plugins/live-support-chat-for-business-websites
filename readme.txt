@@ -1,24 +1,24 @@
 === Plugin Name ===
 Contributors: IMsupporting
 Donate link: http://IMsupporting.com
-Tags: chat, chat support, chat plugin, chat support, chat help, chat plugin, live chat, chatting, provide support, chat software
+Tags: chat, Web support, webchat, web chat,chat plugin, chat support, chat help, chat plugin, live chat, chatting, provide support, chat software, web support
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.0.0.19
+Stable tag: 1.0.0.20
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Chat support for your blog. Add chat to your website and chat to your visitors today!
 
 == Description ==
-<h1>Chat support for websites.</h1>
+<h1>Web Chat support for websites.</h1>
 <p>
-Chat is a great tool to add to any website. With the IMsupporting live Chat software you can have a live Chat account, login to the live Chat account and be supportting to your visitors within minutes!<br>
-Add live Chat to your site today with our 100% FREE trial. Instant access and easy installation.
+Web Chat is a great tool to add to any website. With the IMsupporting live web Chat software you can have a live web Chat account, login to the live Chat account and be supporting your visitors within minutes!<br>
+Add web Chat to your site today with our 100% FREE trial. Instant access and easy installation.
 
 For more information, Check out <a href="http://www.imsupporting.com" target="_blank">Live support</a>
 
-Chat can help increase sales and customer satisfaction by enabling you to Chat to your website visitors!</p>
+Web Chat can help increase sales and customer satisfaction by enabling you to Chat to your website visitors!</p>
 
 
 
